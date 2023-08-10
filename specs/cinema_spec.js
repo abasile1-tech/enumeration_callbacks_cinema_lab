@@ -25,7 +25,7 @@ describe('Cinema', function () {
 
   it('should have a collection of films', function () {
     const actual = cinema.films;
-    deepStrictEqual(actual, films);
+    assert.deepStrictEqual(actual, films);
   });
 
   it('should be able to get a list of film titles');
