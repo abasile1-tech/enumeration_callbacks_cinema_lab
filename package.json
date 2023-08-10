@@ -1,0 +1,23 @@
+{
+  "name": "enumeration_callbacks_cinema_lab",
+  "version": "1.0.0",
+  "description": "**Lab Duration: 90 minutes**",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha specs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abasile1-tech/enumeration_callbacks_cinema_lab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abasile1-tech/enumeration_callbacks_cinema_lab/issues"
+  },
+  "homepage": "https://github.com/abasile1-tech/enumeration_callbacks_cinema_lab#readme",
+  "devDependencies": {
+    "mocha": "^5.1.1"
+  }
+
+}
