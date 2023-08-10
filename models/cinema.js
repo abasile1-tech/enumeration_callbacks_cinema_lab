@@ -4,4 +4,4 @@ class Cinema {
 	}
 }
 
-export default Cinema;
+module.exports = Cinema;

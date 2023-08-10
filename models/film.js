@@ -7,4 +7,4 @@ class Film {
 	}
 }
 
-export default Film;
+module.exports = Film;

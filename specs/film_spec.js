@@ -1,5 +1,5 @@
-import { strictEqual } from 'assert';
-import Film from '../models/film.js';
+const assert = require('assert');
+const Film = require('../models/film.js');
 
 describe('Film', function () {
 

@@ -1,6 +1,6 @@
-import { deepStrictEqual } from 'assert';
-import Cinema from '../models/cinema.js';
-import Film from '../models/film.js';
+const assert = require('assert');
+const Cinema = require('../models/cinema.js');
+const Film = require('../models/film.js');
 
 describe('Cinema', function () {
 
